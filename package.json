@@ -25,11 +25,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/claraverse/og-proxy"
+    "url": "https://github.com/claraverse-space/0G-Compute-Adapter"
   },
-  "homepage": "https://github.com/claraverse/og-proxy#readme",
+  "homepage": "https://github.com/claraverse-space/0G-Compute-Adapter#readme",
   "bugs": {
-    "url": "https://github.com/claraverse/og-proxy/issues"
+    "url": "https://github.com/claraverse-space/0G-Compute-Adapter/issues"
   },
   "dependencies": {
     "@0glabs/0g-serving-broker": "^0.7.2",

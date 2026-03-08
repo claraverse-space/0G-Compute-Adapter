@@ -189,7 +189,7 @@ Works anywhere that supports custom OpenAI-compatible endpoints — set the base
 ### Option 1: Docker (recommended)
 
 ```bash
-git clone https://github.com/claraverse/og-proxy.git
+git clone https://github.com/claraverse-space/0G-Compute-Adapter.git
 cd og-proxy
 cp .env.example .env
 # Edit .env — add your wallet private key
@@ -199,7 +199,7 @@ docker compose up -d
 ### Option 2: Node.js
 
 ```bash
-git clone https://github.com/claraverse/og-proxy.git
+git clone https://github.com/claraverse-space/0G-Compute-Adapter.git
 cd og-proxy
 npm install
 cp .env.example .env
@@ -492,7 +492,7 @@ Models on the 0G network don't natively support OpenAI's tool calling protocol. 
 ### Docker Compose (recommended)
 
 ```bash
-git clone https://github.com/claraverse/og-proxy.git
+git clone https://github.com/claraverse-space/0G-Compute-Adapter.git
 cd og-proxy
 cp .env.example .env
 # Edit .env with your private key
