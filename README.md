@@ -14,7 +14,7 @@
   Drop-in OpenAI-compatible proxy that routes your AI dev tools through the <a href="https://0g.ai">0G Network</a>, where models like GLM-5, DeepSeek V3, and GPT-OSS cost a fraction of what you pay today. Same tools, same workflow, massively lower bill.
 </p>
 
-<p>**Note**: Not anyway this repo is associated with 0G its basically I love the low compute inference cost so i had to contribute, so people can use it more</p>
+<p><b>Note</b>: Not anyway this repo is associated with 0G its basically I love the low compute inference cost so i had to contribute, so people can use it more</p>
 
 <p align="center">
   <a href="#quick-start">Quick Start</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;<a href="#pricing-comparison">Pricing</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;<a href="#dashboard">Dashboard</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;<a href="#usage-examples">Examples</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;<a href="#api-reference">API Reference</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;<a href="#how-tool-calling-works">How It Works</a>
