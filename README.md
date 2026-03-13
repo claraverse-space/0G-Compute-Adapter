@@ -6,7 +6,7 @@
 
 <h1 align="center">0G Compute Adapter</h1>
 
-<h3><p><b>Note</b>: Not anyway this repo is associated with 0G its basically I love the low compute inference cost so i had to contribute, so people can use it more</p></h3>
+<h3 align="center"><p><b>Note</b>: Not anyway this repo is associated with 0G its basically I love the low compute inference cost so i had to contribute, so people can use it more</p></h3>
 
 <p align="center">
   <strong>Cut your AI coding costs by up to 90% — use 0G models in Cursor, Claude Code, Aider, and more</strong>
