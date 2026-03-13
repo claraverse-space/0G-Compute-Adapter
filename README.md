@@ -63,30 +63,6 @@ Pricing is denominated in **0G tokens**. At the current market rate (~$0.06/toke
 | **Z-Image** | 0.02 0G/image | — | ~$0.012/image |
 | **Whisper** | 0.01 0G/min | — | ~$0.006/min |
 
-### What You're Paying Today (USD)
-
-| Model | Input (per 1M tokens) | Output (per 1M tokens) |
-|---|---|---|
-| Claude Opus | $15.00 | $75.00 |
-| Claude Sonnet | $3.00 | $15.00 |
-| GPT-4o | $2.50 | $10.00 |
-| GPT-4.1 | $2.00 | $8.00 |
-
-> DeepSeek V3 on 0G costs **~$0.30/$0.90** per 1M tokens. Claude Sonnet costs **$3/$15**. That is a **10-17x difference** on every request your coding assistant makes.
-
-### Monthly Savings Estimate
-
-| Developer Profile | Typical Monthly Spend | 0G Monthly Spend | Savings |
-|---|---|---|---|
-| **Claude Code power user** | ~$200/mo (Sonnet/Opus) | ~$10-18/mo (DeepSeek V3/GLM-5) | **~$182-190/mo (91-95%)** |
-| **Cursor Pro user** (API mode) | ~$100/mo (GPT-4o) | ~$6-10/mo (DeepSeek V3) | **~$90-94/mo (90-94%)** |
-| **Aider daily user** | ~$150/mo (Sonnet) | ~$9-15/mo (GLM-5) | **~$135-141/mo (90-94%)** |
-| **Team of 5 developers** | ~$750/mo combined | ~$45-75/mo combined | **~$675-705/mo (90-94%)** |
-
-> A developer spending **$200/mo on Anthropic** would spend roughly **$12/mo on 0G** for comparable workloads. That is **$2,256 saved per year**.
->
-> *USD estimates based on 0G token price of ~$0.06. Actual savings depend on current token market price.*
-
 ---
 
 **Change one line of code** — your `base_url` — and start saving immediately:
